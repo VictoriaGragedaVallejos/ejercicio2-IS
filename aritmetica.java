@@ -1,3 +1,4 @@
+//MARIA VICTORIA GRAGEDA VALLEJOS
 public class aritmatica {
     public static boolean esPrimo(int numero) {
         if (numero <= 1) {
