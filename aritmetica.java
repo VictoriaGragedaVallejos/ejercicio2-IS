@@ -16,4 +16,8 @@ public class aritmetica {
         int res = num1 + num2;
         return res;
     }
+
+    public int multiplicacion(int num1, int num2) {//SHIRLEY MARIA CUSIQUISPE MOLLE
+        return num1 * num2;
+    }
 }
