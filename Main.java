@@ -15,6 +15,6 @@ public class Main {
         System.out.println("Respuesta division 4.3 / 5 = " + respDiv);
 
         int resRes = aritmetica.resta(5,3);
-        System.out.println("Respuesta resta es: "+resRes);
+        System.out.println("Respuesta resta es: "+resRes);	//STEPHANY ARIAN IGNACIO PAREDES 
     }
 }
