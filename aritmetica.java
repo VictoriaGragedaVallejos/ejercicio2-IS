@@ -20,4 +20,9 @@ public class aritmetica {
     public int multiplicacion(int num1, int num2) {//SHIRLEY MARIA CUSIQUISPE MOLLE
         return num1 * num2;
     }
+
+    public double division(double num1, double num2) {//ANDREA REBECA YUCRA TOVAR
+        return num1 / num2;
+    }
+
 }

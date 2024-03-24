@@ -10,5 +10,8 @@ public class Main {
 
         int respMulti = aritmetica.multiplicacion(4, 20); //SHIRLEY MARIA CUSIQUISPE MOLLE
         System.out.println("Respuesta suma 4 * 20 = " + respMulti); 
+	
+	int respDiv = aritmetica.division(4.3, 5); //ANDREA REBECA YUCRA TOVAR
+        System.out.println("Respuesta division 4.3 / 5 = " + respDiv);
     }
 }
